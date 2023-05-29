@@ -819,5 +819,27 @@
     { "id": 3, "title": "post-3" },
     { "id": 4, "title": "post-4" }
   ],
-  "postsIDs": [1, 2, 3, 4]
+  "postsIDs": [1, 2, 3, 4],
+  "home": {
+    "banner": [
+      {
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/home-slider/slide-1.jpg",
+        "title": "فروش آنلاین فرش",
+        "subTitle": "فروش آنلاین فرش",
+        "CTATitle": "دانلود اپلیکیشن",
+        "CTALink": ""
+      },
+      {
+        "url": "https://github.com/mohammad-saadati/fake-api/blob/main/assets/images/tarita/home-slider/slide-2.jpg",
+        "title": "فروش آنلاین فرش",
+        "subTitle": "فروش آنلاین فرش",
+        "CTATitle": "دانلود اپلیکیشن",
+        "CTALink": ""
+      }
+    ],
+    "smallImg": {
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/home-slider/app.png",
+      "link": ""
+    }
+  }
 }
