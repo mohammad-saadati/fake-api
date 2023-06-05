@@ -839,6 +839,7 @@
     ],
     "smallImg": {
       "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/home-slider/download-app.png",
+      "mobile-url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/home-slider/download-app-small.png",
       "link": ""
     }
   }
