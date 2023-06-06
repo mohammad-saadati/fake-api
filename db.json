@@ -841,6 +841,48 @@
       "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/home-slider/download-app.png",
       "mobile-url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/home-slider/download-app-small.png",
       "link": ""
-    }
+    },
+    "categories": [
+      {
+        "title": "فرش کودک",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/Children's-Rug.png"
+      },
+      {
+        "title": "فرش مینیاتوری",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/miniature.png"
+      },
+      {
+        "title": "فرش ابریشمی",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/silk-carpet.png"
+      },
+      {
+        "title": "قالیچه",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/rug.png"
+      },
+      {
+        "title": "فرش دستباف",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/handmaid-carpet.png"
+      },
+      {
+        "title": "فرش ماشینی",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/machine-made-carpet.png"
+      },
+      {
+        "title": "تابلو فرش",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/small-carpet.png"
+      },
+      {
+        "title": "پادری",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/carpet-painting.png"
+      },
+      {
+        "title": "موکت",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/Mattress.png"
+      },
+      {
+        "title": "فرش برشی",
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/cutting-mat.png"
+      }
+    ]
   }
 }
