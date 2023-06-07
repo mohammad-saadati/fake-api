@@ -959,13 +959,36 @@
     ],
     "festivel2": [
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/1.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/1.png",
+        "title": "یلدای کویر کاشان"
       },
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/2.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/2.png",
+        "title": "فرش شاپرک"
       },
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/3.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/3.png",
+        "title": "فرش فرهی"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival-2/4.png",
+        "title": "فرش ساوین"
+      }
+    ],
+    "big-banner": [
+      {
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/big-banner/1.png"
+      }
+    ],
+    "posts": [
+      {
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/1.png"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/2.png"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/3.png"
       }
     ]
   }
