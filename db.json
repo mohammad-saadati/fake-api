@@ -884,7 +884,7 @@
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/cutting-mat.png"
       }
     ],
-    "popular-products": [
+    "popularProducts": [
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
         "title": "فرش دستباف 1800 شانه",
