@@ -1001,11 +1001,9 @@
         "title": "فرش فرهی"
       }
     ],
-    "bigBanner": [
-      {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/big-banner/1.png"
-      }
-    ],
+    "bigBanner": {
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/big-banner/1.png"
+    },
     "posts": [
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/1.png"
