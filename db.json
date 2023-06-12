@@ -1022,13 +1022,19 @@
     },
     "posts": [
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/1.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/1.png",
+        "title": "عنوان آزمایشی",
+        "description": "خلاصه توضیحات مطالب در این بخش قرار میگیرد این خلاصه باید در حدود 95 کاراکتر باشد"
       },
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/2.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/2.png",
+        "title": "عنوان آزمایشی",
+        "description": "خلاصه توضیحات مطالب در این بخش قرار میگیرد این خلاصه باید در حدود 95 کاراکتر باشد"
       },
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/3.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/posts/3.png",
+        "title": "عنوان آزمایشی",
+        "description": "خلاصه توضیحات مطالب در این بخش قرار میگیرد این خلاصه باید در حدود 95 کاراکتر باشد"
       }
     ]
   }
