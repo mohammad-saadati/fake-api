@@ -948,13 +948,13 @@
     ],
     "festivals": [
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival/1.svg"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival/1.png"
       },
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival/2.svg"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival/2.png"
       },
       {
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival/3.svg"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/festival/3.png"
       }
     ],
     "festivel2": [
@@ -1018,7 +1018,8 @@
       }
     ],
     "bigBanner": {
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/big-banner/1.png"
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/big-banner/1.png",
+      "mobileUrl": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/big-banner/1.png"
     },
     "posts": [
       {
