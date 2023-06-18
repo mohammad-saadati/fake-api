@@ -1038,5 +1038,114 @@
         "description": "خلاصه توضیحات مطالب در این بخش قرار میگیرد این خلاصه باید در حدود 95 کاراکتر باشد"
       }
     ]
-  }
+  },
+  "product": [
+    {
+      "id": 1,
+      "mainImages": [
+        "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-1.png",
+        "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-2.png"
+      ],
+      "tumbnails": [
+        "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-1-thumb.png",
+        "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-2-thumb.png"
+      ],
+      "title": "دزی ریوک هراتس هناش 1800 یمشیربا تفابتسد شرف",
+      "cat": "فرش ماشینی",
+      "brand": "پاتریس",
+      "stock": "موجود",
+      "features": [
+        { "tilte": "جنس نخ تار", "value": "نخ پنبه" },
+        { "title": "تراکم", "value": "2500 گره" },
+        { "title": "طرح", "value": "گل بوته اسلیمی" }
+      ],
+      "colors": ["#27AE60", "#da0000", "#56CCF2", "#EB5757", "#F2C94C"],
+      "sized": [
+        { "title": "9 متری", "price": 18550000 },
+        { "title": "12 متری", "price": 24800000 }
+      ],
+      "relateds": [
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+          "title": "فرش دستباف 1800 شانه",
+          "price": 18550000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 1925000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
+          "title": "فرش دستباف 1800 شانه",
+          "price": 22600000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 22560000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 22560000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 22560000,
+          "rate": 4.2
+        }
+      ],
+      "lastViewed": [
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+          "title": "فرش دستباف 1800 شانه",
+          "price": 18550000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 1925000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
+          "title": "فرش دستباف 1800 شانه",
+          "price": 22600000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 22560000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 22560000,
+          "rate": 4.2
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+          "title": "فرش دستباف 2200 شانه",
+          "price": 22560000,
+          "rate": 4.2
+        }
+      ],
+      "detail": {
+        "features": [],
+        "description": [],
+        "comments": [],
+        "questions": []
+      }
+    }
+  ]
 }
