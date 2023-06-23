@@ -1057,8 +1057,18 @@
         "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-2.png"
       ],
       "thumbnails": [
-        "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-1-thumb.png",
-        "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-2-thumb.png"
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-1-thumb.png",
+          "title": "",
+          "width": 45,
+          "height": 30
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product/carpet-2-thumb.png",
+          "title": "",
+          "width": 46,
+          "height": 46
+        }
       ],
       "title": "فرش دستباف ابریشمی 1800 شانه ستاره کویر یزد",
       "cat": "فرش ماشینی",
