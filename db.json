@@ -1632,5 +1632,30 @@
       "price": 22600000,
       "rate": 4.2
     }
-  ]
+  ],
+  "filters": {
+    "categories": [
+      { "title": "فرش ماشینی", "value": "machine-woven-carpet" },
+      { "title": "فرش دستباف", "value": "handmade-carpet" },
+      { "title": "تابلو فرش", "value": "carpet-panel" },
+      { "title": "فرش ترکی", "value": "turkish-carpet" },
+      { "title": "گلیم", "value": "rug" }
+    ],
+    "knotCount": [
+      { "title": "250", "value": 250 },
+      { "title": "500", "value": 250 },
+      { "title": "750", "value": 750 },
+      { "title": "1000", "value": 1000 },
+      { "title": "1200", "value": 1200 },
+      { "title": "2000", "value": 2000 }
+    ],
+    "brands": [
+      { "title": "نگین مشهد", "value": "negin-mashhad" },
+      { "title": "پاتریس", "value": "patris" },
+      { "title": "ستاره کویر یزد", "value": "kavir-yazd" },
+      { "title": "کاشان", "value": "kashan" },
+      { "title": "زمرد مشهد", "value": "zomorrod-mashhad" },
+      { "title": "زاگرس کرمانشاه", "value": "zagros-kemanshah" }
+    ]
+  }
 }
