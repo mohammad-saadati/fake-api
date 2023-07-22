@@ -1635,27 +1635,44 @@
   ],
   "filters": {
     "categories": [
-      { "title": "فرش ماشینی", "value": "machine-woven-carpet" },
-      { "title": "فرش دستباف", "value": "handmade-carpet" },
-      { "title": "تابلو فرش", "value": "carpet-panel" },
-      { "title": "فرش ترکی", "value": "turkish-carpet" },
-      { "title": "گلیم", "value": "rug" }
+      {
+        "title": "فرش ماشینی",
+        "value": "machine-woven-carpet",
+        "cat": "categories"
+      },
+      {
+        "title": "فرش دستباف",
+        "value": "handmade-carpet",
+        "cat": "categories"
+      },
+      { "title": "تابلو فرش", "value": "carpet-panel", "cat": "categories" },
+      { "title": "فرش ترکی", "value": "turkish-carpet", "cat": "categories" },
+      { "title": "گلیم", "value": "rug", "cat": "categories" }
     ],
     "knotCount": [
-      { "title": "250", "value": 250 },
-      { "title": "500", "value": 250 },
-      { "title": "750", "value": 750 },
-      { "title": "1000", "value": 1000 },
-      { "title": "1200", "value": 1200 },
-      { "title": "2000", "value": 2000 }
+      { "title": "250", "value": 250, "cat": "knotCount" },
+      { "title": "500", "value": 250, "cat": "knotCount" },
+      { "title": "750", "value": 750, "cat": "knotCount" },
+      { "title": "1000", "value": 1000, "cat": "knotCount" },
+      { "title": "1200", "value": 1200, "cat": "knotCount" },
+      { "title": "2000", "value": 2000, "cat": "knotCount" }
     ],
     "brands": [
-      { "title": "نگین مشهد", "value": "negin-mashhad" },
-      { "title": "پاتریس", "value": "patris" },
-      { "title": "ستاره کویر یزد", "value": "kavir-yazd" },
+      { "title": "نگین مشهد", "value": "negin-mashhad", "cat": "brands" },
+      { "title": "پاتریس", "value": "patris", "cat": "brands" },
+      { "title": "ستاره کویر یزد", "value": "kavir-yazd", "cat": "brands" },
       { "title": "کاشان", "value": "kashan" },
-      { "title": "زمرد مشهد", "value": "zomorrod-mashhad" },
-      { "title": "زاگرس کرمانشاه", "value": "zagros-kemanshah" }
+      { "title": "زمرد مشهد", "value": "zomorrod-mashhad", "cat": "brands" },
+      {
+        "title": "زاگرس کرمانشاه",
+        "value": "zagros-kemanshah",
+        "cat": "brands"
+      }
     ]
+  },
+  "currentUser": {
+    "id": "10js98",
+    "name": "Mr.Happhy",
+    "avatar": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/avatar.png"
   }
 }
