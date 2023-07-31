@@ -1679,16 +1679,16 @@
       {
         "title": "فرش ماشینی",
         "value": "machine-woven-carpet",
-        "cat": "categories"
+        "cat": "category"
       },
       {
         "title": "فرش دستباف",
         "value": "handmade-carpet",
-        "cat": "categories"
+        "cat": "category"
       },
-      { "title": "تابلو فرش", "value": "carpet-panel", "cat": "categories" },
-      { "title": "فرش ترکی", "value": "turkish-carpet", "cat": "categories" },
-      { "title": "گلیم", "value": "rug", "cat": "categories" }
+      { "title": "تابلو فرش", "value": "carpet-panel", "cat": "category" },
+      { "title": "فرش ترکی", "value": "turkish-carpet", "cat": "category" },
+      { "title": "گلیم", "value": "rug", "cat": "category" }
     ],
     "knotCount": [
       { "title": "250", "value": 250, "cat": "knotCount" },
@@ -1699,21 +1699,211 @@
       { "title": "2000", "value": 2000, "cat": "knotCount" }
     ],
     "brands": [
-      { "title": "نگین مشهد", "value": "negin-mashhad", "cat": "brands" },
-      { "title": "پاتریس", "value": "patris", "cat": "brands" },
-      { "title": "ستاره کویر یزد", "value": "kavir-yazd", "cat": "brands" },
+      { "title": "نگین مشهد", "value": "negin-mashhad", "cat": "brand" },
+      { "title": "پاتریس", "value": "patris", "cat": "brand" },
+      { "title": "ستاره کویر یزد", "value": "kavir-yazd", "cat": "brand" },
       { "title": "کاشان", "value": "kashan" },
-      { "title": "زمرد مشهد", "value": "zomorrod-mashhad", "cat": "brands" },
+      { "title": "زمرد مشهد", "value": "zomorrod-mashhad", "cat": "brand" },
       {
         "title": "زاگرس کرمانشاه",
         "value": "zagros-kemanshah",
-        "cat": "brands"
+        "cat": "brand"
       }
     ]
   },
   "currentUser": {
     "id": "10js98",
     "name": "Mr.Happhy",
-    "avatar": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/avatar.png"
-  }
+    "avatar": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/avatar.png",
+    "bookmarked": [
+      {
+        "id": 1,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 22560000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 11212,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 1333,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 1925000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 101,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 22600000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      }
+    ],
+    "bookmarkeds": [
+      {
+        "id": 145,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 22560000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 165,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 178,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 1925000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 177,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 19,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 1925000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 14,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 22600000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 11,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-two.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 22560000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 10,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 22,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 24,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 1925000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 25,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 256,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 1925000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 220,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 240,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "title": "فرش دستباف 2200 شانه",
+        "price": 1925000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+      {
+        "id": 250,
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "title": "فرش دستباف 1800 شانه",
+        "price": 18000000,
+        "rate": 4.2,
+        "categories": "turkish-carpet"
+      },
+    ]
+  },
+  "orders": [
+    {
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+      "title": "فرش دستباف 1800 شانه",
+      "price": 18550000,
+      "rate": 4.2,
+      "category": "machine-woven-carpet"
+    },
+    {
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
+      "title": "فرش دستباف 1800 شانه",
+      "price": 22600000,
+      "rate": 4.2,
+      "category": "machine-woven-carpet"
+    },
+    {
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+      "title": "فرش دستباف 2200 شانه",
+      "price": 22560000,
+      "rate": 4.2,
+      "category": "machine-woven-carpet"
+    },
+    {
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+      "title": "فرش دستباف 1800 شانه",
+      "price": 18000000,
+      "rate": 4.2,
+      "category": "machine-woven-carpet"
+    }
+  ]
 }
