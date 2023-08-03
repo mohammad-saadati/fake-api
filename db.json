@@ -1869,7 +1869,21 @@
         "price": 18000000,
         "rate": 4.2,
         "categories": "turkish-carpet"
+      }
+    ],
+    "addressses": [
+      {
+        "name": "خانه",
+        "location": "تهران،تهران،پاسداران،برج نوین",
+        "postalCode": "67254468",
+        "isActive": true
       },
+      {
+        "name": "دفتر",
+        "location": "تهران،تهران،پاسداران،برج نوین",
+        "postalCode": "67254468",
+        "isActive": false
+      }
     ]
   },
   "orders": [
