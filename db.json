@@ -1884,6 +1884,32 @@
         "postalCode": "67254468",
         "isActive": false
       }
+    ],
+    "cartItems": [
+      {
+        "name": "فرش دستباف ابریشمی 2200 شانه",
+        "color": "لاکی",
+        "size": 12,
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
+        "price": 18550000,
+        "count": 2
+      },
+      {
+        "name": "فرش دستباف ابریشمی 2200 شانه",
+        "color": "لاکی",
+        "size": 12,
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
+        "price": 10550000,
+        "count": 2
+      },
+      {
+        "name": "فرش دستباف ابریشمی 2200 شانه",
+        "color": "لاکی",
+        "size": 12,
+        "image": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-four.png",
+        "price": 32550000,
+        "count": 2
+      }
     ]
   },
   "orders": [
