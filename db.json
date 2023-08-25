@@ -1002,49 +1002,57 @@
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/1.png",
         "title": "یلدای کویر کاشان",
         "width": 69,
-        "height": 45
+        "height": 45,
+        "link": "/search?brand=yalda-kavir-kashun"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/2.png",
         "title": "فرش ساوین",
         "width": 50,
-        "height": 53
+        "height": 53,
+        "link": "/search?brand=savin"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/3.png",
         "title": "فرش شاپرک",
         "width": 110,
-        "height": 51
+        "height": 51,
+        "link": "/search?brand=shaparak"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/4.png",
         "title": "فرش فرهی",
         "width": 59,
-        "height": 45
+        "height": 45,
+        "link": "/search?brand=farrahi"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/1.png",
         "title": "یلدای کویر کاشان",
         "width": 69,
-        "height": 45
+        "height": 45,
+        "link": "/search?brand=yalda-kavir-kashun"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/2.png",
         "title": "فرش ساوین",
         "width": 50,
-        "height": 53
+        "height": 53,
+        "link": "/search?brand=savin"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/3.png",
         "title": "فرش شاپرک",
         "width": 110,
-        "height": 51
+        "height": 51,
+        "link": "/search?brand=shaparak"
       },
       {
         "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/brands/4.png",
         "title": "فرش فرهی",
         "width": 59,
-        "height": 45
+        "height": 45,
+        "link": "/search?brand=farrahi"
       }
     ],
     "bigBanner": {
@@ -1752,28 +1760,22 @@
     "brands": [
       {
         "id": 608,
-        "title": "نگین مشهد",
-        "value": "negin-mashhad",
+        "title": "یلدای کویر کاشان",
+        "value": "yalda-kavir-kashun",
         "cat": "brand"
       },
-      { "id": 607, "title": "پاتریس", "value": "patris", "cat": "brand" },
+      { "id": 607, "title": "فرش ساوین", "value": "savin", "cat": "brand" },
       {
         "id": 605,
         "title": "ستاره کویر یزد",
         "value": "kavir-yazd",
         "cat": "brand"
       },
-      { "id": 604, "title": "کاشان", "value": "kashan" },
+      { "id": 604, "title": "فرش شاپرک", "value": "shaparak" },
       {
         "id": 602,
-        "title": "زمرد مشهد",
-        "value": "zomorrod-mashhad",
-        "cat": "brand"
-      },
-      {
-        "id": 601,
-        "title": "زاگرس کرمانشاه",
-        "value": "zagros-kemanshah",
+        "title": "فرش فرهی",
+        "value": "farrahi",
         "cat": "brand"
       }
     ]
