@@ -846,52 +846,62 @@
       {
         "id": 7695,
         "title": "فرش کودک",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/Children's-Rug.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/Children's-Rug.png",
+        "link": "/search?category=baby-carpet"
       },
       {
         "id": 70268,
         "title": "فرش مینیاتوری",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/miniature.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/miniature.png",
+        "link": "/search?category=miniature-carpet"
       },
       {
         "id": 70245,
         "title": "فرش ابریشمی",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/silk-carpet.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/silk-carpet.png",
+        "link": "/search?category=silk-carpet"
       },
       {
         "id": 70245,
         "title": "قالیچه",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/rug.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/rug.png",
+        "link": "/search?category=rug"
       },
       {
         "id": 7027,
         "title": "فرش دستباف",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/handmaid-carpet.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/handmaid-carpet.png",
+        "link": "/search?category=handmade-carpet"
       },
       {
         "id": 7029,
         "title": "فرش ماشینی",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/machine-made-carpet.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/machine-made-carpet.png",
+        "link": "/search?category=machine-woven-carpet"
       },
       {
         "id": 7082,
         "title": "تابلو فرش",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/small-carpet.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/small-carpet.png",
+        "link": "/search?category=carpet-panel"
       },
       {
         "id": 7052,
         "title": "پادری",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/carpet-painting.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/carpet-painting.png",
+        "link": "/search?category=carpet-painting"
       },
       {
         "id": 7024,
         "title": "موکت",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/Mattress.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/Mattress.png",
+        "link": "/search?category=mattress"
       },
       {
         "id": 7022,
         "title": "فرش برشی",
-        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/cutting-mat.png"
+        "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/categories/cutting-mat.png",
+        "link": "/search?category=cutting-mat"
       }
     ],
     "popularProducts": [
@@ -1707,7 +1717,29 @@
       },
       { "title": "تابلو فرش", "value": "carpet-panel", "cat": "category" },
       { "title": "فرش ترکی", "value": "turkish-carpet", "cat": "category" },
-      { "title": "گلیم", "value": "rug", "cat": "category" }
+      { "title": "قالیچه", "value": "rug", "cat": "category" },
+      { "title": "فرش کودک", "value": "baby-carpet", "cat": "category" },
+      { "title": "فرش ابریشمی", "value": "silk-carpet", "cat": "category" },
+      {
+        "title": "فرش مینیاتوری",
+        "value": "miniature-carpet",
+        "cat": "category"
+      },
+      {
+        "title": "پادری",
+        "value": "carpet-painting",
+        "cat": "category"
+      },
+      {
+        "title": "موکت",
+        "value": "mattress",
+        "cat": "category"
+      },
+      {
+        "title": "فرش برشی",
+        "value": "cutting-mat",
+        "cat": "category"
+      }
     ],
     "knotCount": [
       { "title": "250", "value": 250, "cat": "knotCount" },
