@@ -1692,7 +1692,7 @@
       "title": "فرش دستباف 1800 شانه",
       "price": 18000000,
       "rate": 4.2,
-      "categories": "turkish-carpet"
+      "categories": "miniature-carpet"
     },
     {
       "id": 1,
@@ -1700,7 +1700,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 1925000,
       "rate": 4.2,
-      "categories": "turkish-carpet"
+      "categories": "cutting-mat"
     },
     {
       "id": 1,
@@ -1708,7 +1708,63 @@
       "title": "فرش دستباف 1800 شانه",
       "price": 22600000,
       "rate": 4.2,
-      "categories": "turkish-carpet"
+      "category": "cutting-mat"
+    },
+    {
+      "id": 1666,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-1.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۰۱۲۵۷",
+      "price": 1200000,
+      "rate": 4.2,
+      "category": "baby-carpet"
+    },
+    {
+      "id": 145455,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-2.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۰۱۲۰۰",
+      "price": 1150000,
+      "rate": 4.6,
+      "category": "baby-carpet"
+    },
+    {
+      "id": 100235,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-3.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۰۰۲۰۶",
+      "price": 1550000,
+      "rate": 3.6,
+      "category": "baby-carpet"
+    },
+    {
+      "id": 1002535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-4.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۰۰۰۲۵۴",
+      "price": 1050000,
+      "rate": 3,
+      "category": "baby-carpet"
+    },
+    {
+      "id": 1002535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-5.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۵۰۴۰",
+      "price": 1050000,
+      "rate": 4.6,
+      "category": "baby-carpet"
+    },
+    {
+      "id": 1055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-6.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۰۱۲۱۳N صورتی",
+      "price": 950000,
+      "rate": 2.5,
+      "category": "baby-carpet"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/kudak/kudak-7.jpg",
+      "title": "فرش محتشم کلاریس کودک طرح ۱۰۱۲۱۳N",
+      "price": 1650000,
+      "rate": 5,
+      "category": "baby-carpet"
     }
   ],
   "filters": {
