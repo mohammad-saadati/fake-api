@@ -1492,7 +1492,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 22560000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1500,7 +1500,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 22560000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1508,7 +1508,7 @@
       "title": "فرش دستباف 1800 شانه",
       "price": 18000000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1516,7 +1516,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 1925000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1524,7 +1524,7 @@
       "title": "فرش دستباف 1800 شانه",
       "price": 22600000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1532,7 +1532,7 @@
       "title": "فرش دستباف 1800 شانه",
       "price": 22600000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1540,7 +1540,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 22560000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1548,7 +1548,7 @@
       "title": "فرش دستباف 1800 شانه",
       "price": 18000000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1556,7 +1556,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 22560000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1564,7 +1564,7 @@
       "title": "فرش دستباف 2200 شانه",
       "price": 22560000,
       "rate": 4.2,
-      "category": "rug"
+      "category": "handmade-carpet"
     },
     {
       "id": 1,
@@ -1893,6 +1893,54 @@
       "price": 25769000,
       "rate": 4,
       "category": "silk-carpet"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/1.webp",
+      "title": "قالیچه دستبافت 3 متری مدل گنبد",
+      "price": 25769000,
+      "rate": 4,
+      "category": "rug"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/2.webp",
+      "title": "قالیچه دستبافت دو متری طرح هندسی",
+      "price": 25769000,
+      "rate": 4,
+      "category": "rug"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/3.webp",
+      "title": "نخ و نقشه فرش تمام ابریشم کد 189",
+      "price": 25769000,
+      "rate": 4,
+      "category": "rug"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/4.webp",
+      "title": "قالیچه دستباف طرح ترنج کد",
+      "price": 25769000,
+      "rate": 4,
+      "category": "rug"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/5.webp",
+      "title": "رومیزی قلمکار مدل قالیچه کد",
+      "price": 25769000,
+      "rate": 4,
+      "category": "rug"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/6.webp",
+      "title": "نخ و نقشه فرش تمام ابریشم کد",
+      "price": 25769000,
+      "rate": 4,
+      "category": "rug"
     }
   ],
   "filters": {
