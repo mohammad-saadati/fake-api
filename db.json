@@ -1936,43 +1936,35 @@
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/1.jpg",
-      "title": "دختر قاجار",
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/carpet-painting/1.jpg",
+      "title": "جلودری و پادری حمام و دستشویی طوسی طرح ورساچه",
       "price": 5000000,
       "rate": 4,
-      "category": "carpet-panel"
+      "category": "carpet-painting"
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/2.jpg",
-      "title": "دختر گلباران",
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/carpet-painting/2.jpg",
+      "title": "پادری حمام طوسی طلایی مدل Sweet Lovely Home",
       "price": 3500000,
       "rate": 4,
-      "category": "carpet-panel"
+      "category": "carpet-painting"
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/3.jpg",
-      "title": "کاخ ورسای",
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/carpet-painting/3.jpg",
+      "title": "جلودری و پادری حمام و دستشویی مشکی طرح ورساچه",
       "price": 2500000,
       "rate": 4,
-      "category": "carpet-panel"
+      "category": "carpet-painting"
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/4.jpg",
-      "title": "مسجد کبود",
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/carpet-painting/4.jpg",
+      "title": "جلودری و پادری سرویس بهداشتی طرح HOME",
       "price": 3500000,
       "rate": 4,
-      "category": "carpet-panel"
-    },
-    {
-      "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/5.png",
-      "title": "کاخ ورسای",
-      "price": 1500000,
-      "rate": 4,
-      "category": "carpet-panel"
+      "category": "carpet-painting"
     }
   ],
   "filters": {
