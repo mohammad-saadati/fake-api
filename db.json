@@ -1936,11 +1936,43 @@
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/rug/6.webp",
-      "title": "نخ و نقشه فرش تمام ابریشم کد",
-      "price": 1769000,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/1.jpg",
+      "title": "دختر قاجار",
+      "price": 5000000,
       "rate": 4,
-      "category": "rug"
+      "category": "carpet-panel"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/2.jpg",
+      "title": "دختر گلباران",
+      "price": 3500000,
+      "rate": 4,
+      "category": "carpet-panel"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/3.jpg",
+      "title": "کاخ ورسای",
+      "price": 2500000,
+      "rate": 4,
+      "category": "carpet-panel"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/4.jpg",
+      "title": "مسجد کبود",
+      "price": 3500000,
+      "rate": 4,
+      "category": "carpet-panel"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/carpet-panel/5.png",
+      "title": "کاخ ورسای",
+      "price": 1500000,
+      "rate": 4,
+      "category": "carpet-panel"
     }
   ],
   "filters": {
