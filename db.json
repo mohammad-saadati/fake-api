@@ -1765,7 +1765,63 @@
       "price": 1650000,
       "rate": 5,
       "category": "baby-carpet"
-    }
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-1.jpg",
+      "title": "نخ و نقشه تابلو فرش مینیاتوری کد 50",
+      "price": 1650000,
+      "rate": 5,
+      "category": "miniature"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-2.jpg",
+      "title": "نخ و نقشه تابلو فرش مینیاتوری کد 566",
+      "price": 1650000,
+      "rate": 5,
+      "category": "miniature"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-3.jpg",
+      "title": "698 نخ و نقشه تابلو فرش مینیاتوری کد",
+      "price": 1650000,
+      "rate": 5,
+      "category": "miniature"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-4.jpg",
+      "title": "نخ و نقشه تابلو فرش مینیاتوری کد 333",
+      "price": 1650000,
+      "rate": 5,
+      "category": "miniature"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-5.jpg",
+      "title": "نخ و نقشه تابلو فرش مینیاتوری کد 9658",
+      "price": 1805000,
+      "rate": 5,
+      "category": "miniature"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-6.jpg",
+      "title": "نخ و نقشه تابلو فرش مینیاتوری کد 9654",
+      "price": 1695000,
+      "rate": 5,
+      "category": "miniature"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/miniature/persian-7.jpg",
+      "title": "نخ و نقشه تابلو فرش مینیاتوری کد 9654",
+      "price": 1669000,
+      "rate": 5,
+      "category": "miniature"
+    },
   ],
   "filters": {
     "categories": [
