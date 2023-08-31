@@ -1977,6 +1977,14 @@
     {
       "id": 9055535,
       "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/2.webp",
+      "title": "موکت پالاز مدل کات بی کد 6411",
+      "price": 3500000,
+      "rate": 4,
+      "category": "mattress"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/3.webp",
       "title": "موکت پالاز مدل کات بی کد 4500",
       "price": 3500000,
       "rate": 4,
@@ -1984,7 +1992,7 @@
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/2.webp",
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/4.webp",
       "title": "موکت پالاز مدل کات بی کد 6598",
       "price": 3500000,
       "rate": 4,
@@ -1992,11 +2000,35 @@
     },
     {
       "id": 9055535,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/2.webp",
-      "title": "موکت پالاز مدل کات بی کد 2556",
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/cutting-mat/1.jpg",
+      "title": "فرش برشی طرح ۱۹۰۰۱",
       "price": 3500000,
       "rate": 4,
-      "category": "mattress"
+      "category": "cutting-mat"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/cutting-mat/2.jpg",
+      "title": "موکت پالاز مدل کات بی کد فرش برشی طرح ۱۹۰۰۱",
+      "price": 3500000,
+      "rate": 4,
+      "category": "cutting-mat"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/cutting-mat/3.jpg",
+      "title": "موکت پالاز مدل کات بی کد فرش برشی طرح ۱۹۰۰۱",
+      "price": 3500000,
+      "rate": 4,
+      "category": "cutting-mat"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/cutting-mat/4.jpg",
+      "title": "موکت پالاز مدل کات بی کد فرش برشی طرح ۱۹۰۰۱",
+      "price": 3500000,
+      "rate": 4,
+      "category": "cutting-mat"
     }
   ],
   "filters": {
