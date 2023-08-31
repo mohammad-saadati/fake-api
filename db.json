@@ -1240,7 +1240,7 @@
           { "id": 1984, "title": "شکل", "value": "مستطیل" },
           { "id": 1988, "title": "تراکم طولی فرش", "value": 1400 },
           { "id": 19899, "title": "تراکم عرضی فرش", "value": 700 },
-          { "id": 19887, "title": "باخ خن سنج", "value": "تس تیه نلیپورپ یلپ" },
+          { "id": 19887, "title": "جنس نخ", "value": "پلی استر" },
           {
             "id": 19845,
             "title": "سایر ویژگی ها",
@@ -1252,7 +1252,7 @@
               "مستطیل",
               1400,
               700,
-              "پلی پروپیلن هست ست"
+              "پلی استر"
             ]
           }
         ],
@@ -1693,22 +1693,6 @@
       "price": 18000000,
       "rate": 4.2,
       "categories": "miniature-carpet"
-    },
-    {
-      "id": 1,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-one.png",
-      "title": "فرش دستباف 2200 شانه",
-      "price": 1925000,
-      "rate": 4.2,
-      "categories": "cutting-mat"
-    },
-    {
-      "id": 1,
-      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/product-slider/item-five.png",
-      "title": "فرش دستباف 1800 شانه",
-      "price": 22600000,
-      "rate": 4.2,
-      "category": "cutting-mat"
     },
     {
       "id": 1666,
