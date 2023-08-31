@@ -1965,6 +1965,38 @@
       "price": 3500000,
       "rate": 4,
       "category": "carpet-painting"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/1.webp",
+      "title": "موکت پالاز مدل کات بی کد 6411",
+      "price": 3500000,
+      "rate": 4,
+      "category": "mattress"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/2.webp",
+      "title": "موکت پالاز مدل کات بی کد 4500",
+      "price": 3500000,
+      "rate": 4,
+      "category": "mattress"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/2.webp",
+      "title": "موکت پالاز مدل کات بی کد 6598",
+      "price": 3500000,
+      "rate": 4,
+      "category": "mattress"
+    },
+    {
+      "id": 9055535,
+      "url": "https://raw.githubusercontent.com/mohammad-saadati/fake-api/main/assets/images/tarita/mattress/2.webp",
+      "title": "موکت پالاز مدل کات بی کد 2556",
+      "price": 3500000,
+      "rate": 4,
+      "category": "mattress"
     }
   ],
   "filters": {
